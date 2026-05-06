@@ -324,6 +324,7 @@
   cursor: pointer;
   border-radius: 1.5rem;
   border: 1px solid var(--glass-border);
+  will-change: transform;
 }
 
 .gallery-img {
