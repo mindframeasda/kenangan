@@ -1,0 +1,234 @@
+.admin-container {
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+  padding-bottom: 4rem;
+}
+
+.admin-header {
+  background-color: var(--bg-secondary);
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--glass-border);
+  box-shadow: 0 4px 20px rgba(37, 99, 235, 0.05);
+}
+
+.admin-header h2 {
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.btn-back {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border-radius: 2rem;
+  background: var(--glass);
+  transition: all 0.3s ease;
+}
+
+.btn-back:hover {
+  background: var(--accent);
+  color: white;
+}
+
+.admin-main {
+  margin-top: 3rem;
+}
+
+.upload-section {
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.upload-section h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.upload-section p {
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+}
+
+.upload-form {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.caption-input {
+  flex: 1;
+  min-width: 250px;
+  padding: 0.8rem 1.2rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--glass-border);
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  font-family: inherit;
+}
+
+.caption-input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent-glow);
+}
+
+.upload-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0;
+}
+
+.admin-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.admin-photo-card {
+  border-radius: 1rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.admin-photo-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-bottom: 1px solid var(--glass-border);
+}
+
+.admin-photo-info {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--bg-secondary);
+}
+
+.admin-photo-info span {
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-right: 1rem;
+}
+
+.btn-delete {
+  background: #fee2e2;
+  color: #ef4444;
+  border: none;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-delete:hover {
+  background: #ef4444;
+  color: white;
+  transform: scale(1.1);
+}
+
+/* Tabs */
+.admin-tabs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--glass-border);
+  padding-bottom: 1rem;
+}
+
+.admin-tab {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+.admin-tab:hover {
+  background: var(--glass);
+  color: var(--text-primary);
+}
+
+.admin-tab.active {
+  background: var(--accent);
+  color: white;
+  box-shadow: 0 4px 12px var(--accent-glow);
+}
+
+/* Members List */
+.admin-members-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.admin-member-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.admin-member-profile {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.admin-member-avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--accent-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.admin-member-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.admin-member-initial {
+  color: white;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.admin-member-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.admin-member-details strong {
+  color: var(--text-primary);
+  font-size: 1.1rem;
+}
+
+.admin-member-details small {
+  color: var(--accent);
+  font-weight: 500;
+}

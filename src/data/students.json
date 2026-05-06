@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1778076943160,
+    "name": "Krisdi",
+    "role": "Siswa",
+    "photo": "/assets/students/1778076943152-135003442.jpeg"
+  },
+  {
+    "id": 1778076987954,
+    "name": "Talita",
+    "role": "Siswa",
+    "photo": "/assets/students/1778076987948-614136316.jpeg"
+  },
+  {
+    "id": 1778077021537,
+    "name": "Kaiza",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077021532-595447842.jpeg"
+  },
+  {
+    "id": 1778077026302,
+    "name": "Kenia",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077026292-227246704.jpeg"
+  },
+  {
+    "id": 1778077033402,
+    "name": "Maslahatun",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077033388-224309040.jpeg"
+  },
+  {
+    "id": 1778077054763,
+    "name": "Nayla",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077054750-376163866.jpeg"
+  },
+  {
+    "id": 1778077063913,
+    "name": "Raka",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077063907-110368499.jpeg"
+  },
+  {
+    "id": 1778077069614,
+    "name": "Raya",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077069608-141677182.jpeg"
+  },
+  {
+    "id": 1778077075684,
+    "name": "Rena",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077075676-477070601.jpeg"
+  },
+  {
+    "id": 1778077082982,
+    "name": "Resti",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077082931-474514979.jpeg"
+  },
+  {
+    "id": 1778077089240,
+    "name": "Rike",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077089231-68081268.jpeg"
+  },
+  {
+    "id": 1778077103632,
+    "name": "Satria",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077103622-742258052.jpeg"
+  },
+  {
+    "id": 1778077111040,
+    "name": "Silva",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077111036-498672463.jpeg"
+  },
+  {
+    "id": 1778077117649,
+    "name": "Sifa",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077117639-929494998.jpeg"
+  },
+  {
+    "id": 1778077129235,
+    "name": "Talita Nur",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077129221-634411834.jpeg"
+  },
+  {
+    "id": 1778077135621,
+    "name": "Tarisa",
+    "role": "Siswa",
+    "photo": "/assets/students/1778077135611-124128260.jpeg"
+  },
+  {
+    "id": 1778079507998,
+    "name": "Tina",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079507991-944689620.jpeg"
+  },
+  {
+    "id": 1778079522864,
+    "name": "Dita",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079522859-633630024.jpeg"
+  },
+  {
+    "id": 1778079528612,
+    "name": "Adil",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079528602-35664124.jpeg"
+  },
+  {
+    "id": 1778079534379,
+    "name": "Astri",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079534374-358897560.jpeg"
+  },
+  {
+    "id": 1778079539619,
+    "name": "Bila",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079539616-428980737.jpeg"
+  },
+  {
+    "id": 1778079544859,
+    "name": "Bunga",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079544856-730443186.jpeg"
+  },
+  {
+    "id": 1778079563020,
+    "name": "Chelsea",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079563014-736229112.jpeg"
+  },
+  {
+    "id": 1778079568552,
+    "name": "Cindy",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079568549-767002912.jpeg"
+  },
+  {
+    "id": 1778079574425,
+    "name": "Dela",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079574414-943602388.jpeg"
+  },
+  {
+    "id": 1778079581609,
+    "name": "Dini",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079581598-422280711.jpeg"
+  },
+  {
+    "id": 1778079593311,
+    "name": "Elin",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079593298-175766551.jpeg"
+  },
+  {
+    "id": 1778079632125,
+    "name": "Kayla",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079632114-406217832.jpeg"
+  },
+  {
+    "id": 1778079680462,
+    "name": "M. Janu",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079680456-127593925.jpeg"
+  },
+  {
+    "id": 1778079688986,
+    "name": "M. Yanuar",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079688979-622434955.jpeg"
+  },
+  {
+    "id": 1778079776644,
+    "name": "Meisa",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079776635-233833136.jpeg"
+  },
+  {
+    "id": 1778079801779,
+    "name": "Keisha",
+    "role": "Siswa",
+    "photo": "/assets/students/1778079801760-975709720.jpeg"
+  }
+]
